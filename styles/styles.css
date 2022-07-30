@@ -64,6 +64,7 @@ section {
 .sec2 {
   display: none;
   transform: translateY(0) scale(1);
+  background-color: rgb(194, 205, 90);
 }
 
 .sec3 {
@@ -74,11 +75,16 @@ section {
 .sec4 {
   display: none;
   transform: translateY(0) scale(1);
+  background-color: rgb(194, 205, 90);
 }
 
 .sec5 {
   display: none;
   transform: translateY(0) scale(1);
+}
+
+.active {
+  display: block;
 }
 
 .controlls {
